@@ -23,5 +23,8 @@ Subscriber vs. Casual User Behavior
 Objective: Compare the behavior of subscribers versus single-use or casual riders.
 Story Insight: A bar chart or stacked line chart can highlight differences in ride frequency and average trip duration between subscriber types, helping the city optimize offerings and incentives for different user groups.
 
-Tableu profile link
+Tableu profile link:
 https://public.tableau.com/app/profile/rahul.sharma8497/viz/CitiBank_17307694597970/CitiBike?publish=yes
+
+Resources:
+https://citibikenyc.com/system-data
